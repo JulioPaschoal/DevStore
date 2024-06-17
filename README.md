@@ -5,7 +5,8 @@
 > Projeto DevStore
 
 - NextJS
--  
+- Tailwind Css
+- Lucinde-react
 
 
 ---
