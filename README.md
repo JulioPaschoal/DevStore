@@ -6,7 +6,7 @@
 
 - NextJS
 - Tailwind Css
-- Lucinde-react
+- Lucinde-react (Icones)
 
 
 ---
