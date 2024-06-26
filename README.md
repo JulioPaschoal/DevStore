@@ -7,6 +7,7 @@
 - NextJS
 - Tailwind Css
 - Lucinde-react (Icones)
+- Zod
 
 
 ---
