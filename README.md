@@ -8,6 +8,7 @@
 - Tailwind Css
 - Lucinde-react (Icones)
 - Zod
+- Tailwind-merge
 
 
 ---
